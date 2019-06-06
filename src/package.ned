@@ -1,0 +1,3 @@
+package ecsnetpp;
+
+@license(LGPL);
